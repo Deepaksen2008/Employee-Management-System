@@ -1,0 +1,3 @@
+node_modules
+/EmployeeMS/myapp/node_modules
+.env
